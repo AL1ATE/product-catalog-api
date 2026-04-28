@@ -1,3 +1,15 @@
+# Product Catalog API
+
+REST API для каталога товаров с кэшированием.
+
+## Стек
+
+- PHP 8.4
+- Laravel 13
+- MySQL
+- Redis
+- Docker
+
 ## Запуск проекта
 
 ### Клонировать репозиторий
